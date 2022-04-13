@@ -1,0 +1,17 @@
+h1, h2, h3, h4 {
+    color: #2D4263;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #C84B31;
+    border-width: 20px;
+    width: 25%;
+
+}
+
+img {
+    max-height: 80%;
+    max-width: 80%;
+}
