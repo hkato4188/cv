@@ -1,8 +1,11 @@
 h1,
 h2,
-h3,
-h4 {
+h3{
   color: #2d4263;
+}
+
+h4 {
+  color: #FDF6EC;
 }
 
 hr {
@@ -23,5 +26,9 @@ img {
 }
 
 .gray-background {
-    background-color: #F2F2F2;
+  background-color: #f2f2f2;
+}
+
+.navy-background {
+  background-color: #2d4263;
 }
