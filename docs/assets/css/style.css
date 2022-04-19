@@ -8,6 +8,7 @@ h4 {
   color: #fdf6ec;
 }
 
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -31,4 +32,13 @@ img {
 
 .navy-background {
   background-color: #2d4263;
+}
+
+#welcome {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 200%;
+}
+
+#welcome:hover {
+  font-size: 320%;
 }
